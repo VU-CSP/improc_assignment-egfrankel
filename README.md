@@ -15,7 +15,7 @@ Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.ti
 A2)  314, 226
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
-A3) The differential interfenrence image has a greater dymanic range of 219 versus the phase contrast image which has a dynamic range of 174 
+A3) Since both images are 8-bit they have the same dynamic range. However, once you examine the intesity range for each individual image it seems that the differential interfenrence image has a greater dymanic range of 219 versus the phase contrast image which has a dynamic range of 174. 
 
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
